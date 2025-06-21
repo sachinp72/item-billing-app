@@ -1,28 +1,29 @@
 # 🧾 Item Entry & Printable Billing System
 
-A lightweight, browser-based billing tool built with HTML, CSS, and JavaScript. Ideal for small retail businesses or hardware stores needing quick, printable invoices.
+A lightweight, browser-based billing tool for small retailers and hardware shops. Built with HTML, CSS, and JavaScript to generate instant, printable invoices.
 
-## 🔧 Technologies
+## 🔧 Technologies Used
 - HTML5
-- CSS3
+- CSS3 (with responsive print layout)
 - Vanilla JavaScript
 
 ## ✅ Features
-- Dynamic add/remove item rows
-- Global date auto-fill
-- Discount handling (in % or ₹)
-- Subtotal in figures & words
-- Print-ready layout with business info
-- Responsive for A4 printing
+- Dynamic row add/remove
+- Auto subtotal with discount logic (₹ / %)
+- Global date fill for all items
+- Real-time subtotal in digits & Indian words
+- Print-optimized layout with business branding
+- One-click clear/reset
 
 ## 📸 Screenshot
-![Screenshot](lg.png)
+![Demo](ss.png)
 
-## 🖨️ How It Works
-1. Fill in customer and item details
-2. Adjust price, unit, and discounts
-3. View subtotal live
-4. Click **Print** to generate an invoice
+## 🖨️ Use Case
+Perfect for small businesses who need simple, no-login, printable billing without a backend.
 
-## 🔗 Live Demo
-Coming soon via GitHub Pages
+## 🌐 Live Demo
+👉 [Click here to view](https://sachinp72.github.io/item-billing-app/)
+
+## 🙋‍♂️ Author
+Developed by [Sachin Potre](https://github.com/sachinp72)
+
